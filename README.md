@@ -1,6 +1,6 @@
 # Ksher SDK for Python
 
-[![Python Package](https://github.com/ksher-solutions/ksher_sdk_python/actions/workflows/python-publish.yml/badge.svg)](https://github.com/ksher-solutions/ksher_sdk_python/actions/workflows/python-publish.yml)
+[![Python Package](https://github.com/ksher-api/ksher_sdk_python/actions/workflows/python-publish.yml/badge.svg)](https://github.com/ksher-api/ksher_sdk_python/actions/workflows/python-publish.yml)
 [![Version](https://img.shields.io/pypi/v/ksher)](https://pypi.org/project/ksher/)
 
 Ksher payment SDK for Python.
@@ -10,11 +10,11 @@ Ksher payment SDK for Python.
 ## Available SDKs
 Ksher SDK is available in multiple languages:
 - **Java**: [Ksher SDK (Java)](https://github.com/ksher-api/ksher-sdk/tree/master/java)
-- **Python**: [Ksher SDK (Python)](https://github.com/ksher-solutions/ksher_sdk_python)
+- **Python**: [Ksher SDK (Python)](https://github.com/ksher-api/ksher_sdk_python)
 - **Go**: [Ksher SDK (Go)](https://github.com/ksher-api/ksher-sdk/tree/master/go)
 - **PHP**: [Ksher SDK (PHP)](https://github.com/ksher-api/ksher-sdk/tree/master/php)
 - **.NET Core**: [Ksher SDK (.NET Core)](https://github.com/ksher-api/ksher-sdk/tree/master/netcore)
-- **Node.js**: [Ksher SDK (Node.js)](https://github.com/ksher-solutions/ksher_sdk_nodejs)
+- **Node.js**: [Ksher SDK (Node.js)](https://github.com/ksher-api/ksher_sdk_nodejs)
 
 ---
 
@@ -30,7 +30,7 @@ pip install ksher
 ### Option 2: Clone and Install Manually
 #### Step 1: Clone the Repository
 ```sh
-git clone https://github.com/ksher-solutions/ksher_sdk_python.git
+git clone https://github.com/ksher-api/ksher_sdk_python.git
 ```
 
 #### Step 2: Navigate and Install Dependencies
