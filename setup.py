@@ -15,11 +15,11 @@ with open("README.md", "r") as fh:
 
 NAME = "ksher"
 PACKAGES = ['hmac','hashlib','requests','urllib']
-DESCRIPTION = "python implementation for Khser Payment API."
+DESCRIPTION = "python implementation for Ksher Payment API."
 KEYWORDS = "Ksher, ksher, ksher-payment, ksher-payment-api, ksherpay"
 AUTHOR = "Ksher"
 AUTHOR_EMAIL = "support@ksher.com"
-URL = "https://github.com/ksher-solutions/ksher_sdk_python"
+URL = "https://github.com/ksher-api/ksher_sdk_python"
 VERSION = "1.0.1"
 LICENSE = "MIT"
 
